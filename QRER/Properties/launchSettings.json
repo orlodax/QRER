@@ -2,7 +2,7 @@
   "profiles": {
     "QRER": {
       "commandName": "Project",
-      "commandLineArgs": "http://www.jw.org"
+      "commandLineArgs": "http://github.com"
     }
   }
 }
